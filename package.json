@@ -1,0 +1,23 @@
+{
+  "name": "BassGen",
+  "version": "1.0.0",
+  "description": "bass gen test",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bethanrv/BassGen.git"
+  },
+  "keywords": [
+    "Bass",
+    "Gen"
+  ],
+  "author": "Bethanrv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bethanrv/BassGen/issues"
+  },
+  "homepage": "https://github.com/bethanrv/BassGen#readme"
+}
